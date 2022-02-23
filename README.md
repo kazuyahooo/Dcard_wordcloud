@@ -1,3 +1,4 @@
-# Dcard_wordcloud
+# Practice Crawler 
 
-The "Dcard_get_data" file should be run on Google Colab. If you want to run it in local jupyter notebook, delete all codes associate with Colab.
+1. Ptt (Catch title, author, link)
+2. Dcard (Catch NCU top 10 article and try to do something) 
